@@ -2,8 +2,7 @@
 
 学习 https://github.com/z3tt 这个github主页上的关于ggplot2数据可视化的代码，争取每周重复其中一个
 
-先从TidyTuesday
-https://github.com/z3tt/TidyTuesday这个仓库里的代码开始
+先从[TidyTuesday](https://github.com/z3tt/TidyTuesday)这个仓库里的代码开始
 
 ## 第一周
 
