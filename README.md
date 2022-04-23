@@ -9,3 +9,8 @@
 [第一周数据代码](https://github.com/NotebookOFXiaoMing/learn_ggplot2/tree/main/20220423)
 
 ![](20220423/20220423.png)
+
+
+## 欢迎关注我的公众号
+
+![小明的数据分析笔记本](xiaom.jpg)
