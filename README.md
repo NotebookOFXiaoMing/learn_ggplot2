@@ -7,6 +7,6 @@ https://github.com/z3tt/TidyTuesday这个仓库里的代码开始
 
 ## 第一周
 
-[第一周数据代码](file:///20220423)
+[第一周数据代码](https://github.com/NotebookOFXiaoMing/learn_ggplot2/tree/main/20220423)
 
 ![](20220423/20220423.png)
